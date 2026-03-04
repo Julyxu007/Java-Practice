@@ -1,8 +1,8 @@
-import java.awt.*;
-import java.util.Date;
+package Basic;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class Fibonacci {
     static int count = 2;
     public static  void fib(int pre1, int pre2){
       if (count <= 19){
